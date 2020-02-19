@@ -37,7 +37,7 @@
     "type-graphql": "^0.17.4"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.15",
+    "@types/jest": "^25.1.3",
     "@types/lodash.clonedeep": "^4.5.6"
   },
   "gitHead": "03b9022aa6e48cf2412e66e609937c8589d73e02"
